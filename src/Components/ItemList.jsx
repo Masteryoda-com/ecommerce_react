@@ -1,6 +1,7 @@
 import React from 'react'
 import Container from 'react-bootstrap/Container';
 import ItemCard from './ItemCard'
+import './cardList.css'
 
 function ItemList() {
   return (
